@@ -97,3 +97,8 @@ To speed up the process, you can use a [pre-generated DAG](https://github.com/et
 ADD dag/full-R23-0000000000000000 /root/.ethash/full-R23-0000000000000000
 ```
 to the `monitored-geth-client` Dockerfile.
+
+
+### Notes
+after start, need to open console and by hand unlock 0 account and run auto_start_mining.js script 
+
