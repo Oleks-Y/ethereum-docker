@@ -100,5 +100,5 @@ to the `monitored-geth-client` Dockerfile.
 
 
 ### Notes
-after start, need to open console and by hand unlock 0 account and run auto_start_mining.js script 
+after start, need to open console and by hand unlock 0 account and run auto_start_mining.js script, and then run miner.start() 
 
